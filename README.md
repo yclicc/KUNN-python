@@ -1,5 +1,5 @@
 # K-Unified Nearest Neighbors Collaborative Filtering
-This repository contains two Python implementations of the collaborative filtering algorithm for binary, positive-only data developed by Koen Verstrepen and Bart Goethals. The algorithm is described succinctly in 
+This repository contains two of my own Python implementations of the collaborative filtering algorithm for binary, positive-only data first discovered by Koen Verstrepen and Bart Goethals. The algorithm is described succinctly in 
 [Verstrepen, K. and Goethals, B., 2014, October. Unifying nearest neighbors collaborative filtering. In *Proceedings of the 8th ACM Conference on Recommender systems* (pp. 177-184). ACM. Vancouver](http://adrem.ua.ac.be/~goethals/publications/pubs/verstrepen14kunn.pdf)
 and also at greater length in chapter 3 of Koen Verstrepen's PhD thesis
 [Verstrepen, K., 2015. *Collaborative Filtering with Binary, Positive-only Data: Proefschrift* (Doctoral dissertation).
